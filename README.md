@@ -3,6 +3,8 @@
 ## Overview
 This group project was developed with the goal of assessing financial loan risks using a dataset sourced from Kaggle. This dataset includes fictional data, consisting of approximately 32,000 records and 12 columns, where each row represents one loan record for one client.
 
+![Title Image](https://raw.githubusercontent.com/DarceeAnne/Financial_Loan_Risk_Assessment/main/title_image.png)
+
 ## Data Source
 - **Source:** [Kaggle - Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset/data)
 - **Rows:** 32,000
@@ -37,6 +39,8 @@ This group project was developed with the goal of assessing financial loan risks
 #### Target:
 - **Loan Amount:** Explored the association of loan amount with other numerical indicators.
 
+![Models Image](https://raw.githubusercontent.com/DarceeAnne/Financial_Loan_Risk_Assessment/main/models.png)
+
 ### Model Selection
 - Employed a weighted average F1 Score for classification models.
 - Used weighted average R2 Score for regression models.
@@ -50,9 +54,13 @@ This group project was developed with the goal of assessing financial loan risks
 #### High Default Risk Profile
 - Higher loan percentage of income, renters, previous defaults, and higher interest rates.
 
+![Application Image](https://raw.githubusercontent.com/DarceeAnne/Financial_Loan_Risk_Assessment/main/application.png)
+
 ### Application: Loan Amount
 - Developed targeted loan products and marketing strategies based on customer segmentation by age, income, and loan reason.
 - Formulated strategies for interest rate assessments based on loan amounts.
+
+![Loan Amount Target Image](https://raw.githubusercontent.com/DarceeAnne/Financial_Loan_Risk_Assessment/main/laon_ammt_target.png)
 
 ## Conclusion
 The project successfully implemented multiple machine learning models to assess and predict financial loan risks. The Random Forest model showed the highest accuracy in predicting loan amounts, while the Random Patches and Gradient Boosting models excelled in the loan status classification.
@@ -64,5 +72,6 @@ The project successfully implemented multiple machine learning models to assess 
 - [Darcee Caron](https://www.linkedin.com/in/darceecarondataanalystpythonsqlpowerbi/)
 
 
+![Thank You Image](https://raw.githubusercontent.com/DarceeAnne/Financial_Loan_Risk_Assessment/main/thank%20you.png)
 
 
